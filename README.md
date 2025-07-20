@@ -1,5 +1,7 @@
 **Ecommerce With Golang Project By Daksh Saini**
+## 📊 Flow Diagram
 
+![Ecommerce Flowchart](images/ecommerce-flowchart.png)
 
 ```bash
 # You can start the project with below commands
